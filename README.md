@@ -168,14 +168,7 @@ These analyses help stakeholders monitor market trends, identify impacted sector
 
 ---
 
-## 📚 References
 
-* Python Documentation: https://docs.python.org/
-* Pandas Documentation: https://pandas.pydata.org/
-* NumPy Documentation: https://numpy.org/
-* Matplotlib Documentation: https://matplotlib.org/
-* Seaborn Documentation: https://seaborn.pydata.org/
-* Microsoft Power BI Documentation: https://learn.microsoft.com/power-bi/
 
 ---
 
