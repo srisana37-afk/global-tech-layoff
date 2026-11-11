@@ -150,7 +150,10 @@ The project successfully demonstrates:
 * Identification of peak layoff periods, hardest-hit industries, and geographic trends
 * Interactive dashboard development using Power BI with drill-downs and filters
 These analyses help stakeholders monitor market trends, identify impacted sectors, and understand modern workforce shifts.
-[global layoff.pdf]https://github.com/srisana37-afk/global-tech-layoff/blob/main/global%20layoff.pdf
+
+## Report
+
+https://github.com/srisana37-afk/global-tech-layoff/tree/main
 
 ---
 
