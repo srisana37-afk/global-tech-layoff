@@ -153,7 +153,7 @@ The project successfully demonstrates:
 These analyses help stakeholders monitor market trends, identify impacted sectors, and understand modern workforce shifts.
 
 ## Report
-
+https://github.com/srisana37-afk/global-tech-layoff/blob/main/global-layoff.pdf
 
 [View Global Tech Layoffs Report](https://github.com/srisana37-afk/global-tech-layoff/blob/main/global-layoff.pdf)
 
