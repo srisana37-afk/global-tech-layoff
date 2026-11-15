@@ -126,7 +126,7 @@ Example:<img width="1920" height="1200" alt="image" src="https://github.com/user
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/global-layoffs-analysis-dashboard.git](https://github.com/your-username/global-layoffs-analysis-dashboard.git)
+git clone [git clone https://github.com/srisana37-afk/global-tech-layoff.git](https://github.com/your-username/global-layoffs-analysis-dashboard.git)
 
 
 2. Install Required Libraries
