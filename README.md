@@ -123,7 +123,7 @@ Example:<img width="1920" height="1200" alt="image" src="https://github.com/user
 # 🌍 Global-Layoffs-Analysis-Dashboard
 
 ## 📺 How to Run the Project
-
+https://github.com/srisana37-afk/srisana37-afk
 ### 1. Clone the Repository
 ```bash
 git clone [git clone https://github.com/srisana37-afk/global-tech-layoff.git](https://github.com/your-username/global-layoffs-analysis-dashboard.git)
