@@ -129,8 +129,12 @@ https://github.com/srisana37-afk/srisana37-afk
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/srisana37-afk/global-tech-layoff.git
 
+## 📺 How to Run the Project
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/srisana37-afk/global-tech-layoff.git](https://github.com/srisana37-afk/global-tech-layoff.git)
 
 
 
