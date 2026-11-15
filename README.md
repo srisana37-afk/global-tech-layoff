@@ -123,23 +123,19 @@ Example:<img width="1920" height="1200" alt="image" src="https://github.com/user
 # 🌍 Global-Layoffs-Analysis-Dashboard
 
 ## 📺 How to Run the Project
+
+
 https://github.com/srisana37-afk/srisana37-afk
 ### 1. Clone the Repository
 ```bash
 git clone [git clone https://github.com/srisana37-afk/global-tech-layoff.git](https://github.com/your-username/global-layoffs-analysis-dashboard.git)
 
 
-2. Install Required Libraries
 
-pip install pandas numpy matplotlib seaborn openpyxl
-
-3. Open the Notebook
-
-jupiter notebook layoffs_data_cleaning_eda.ipynb
 
 4. Open Power BI Dashboard
 
-
+https://github.com/srisana37-afk/global-tech-layoff/blob/main/global_layoff.pbit
 Open the .pbix file using Microsoft Power BI Desktop to explore the interactive visualizations.
 
 
