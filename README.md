@@ -153,7 +153,7 @@ These analyses help stakeholders monitor market trends, identify impacted sector
 
 ## Report
 
-[View Global Tech Layoffs Report]
+[View Global Tech Layoffs Report]https://github.com/srisana37-afk/global-tech-layoff/blob/main/global%20layoff.pdf
 
 
 ---
